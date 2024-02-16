@@ -1,0 +1,4 @@
+nome: Deborah Bombini Ferreira
+idade: 19 anos
+sexo: Feminino 
+profissão: Estagiária em desenvolvimento de software e helpdesk
