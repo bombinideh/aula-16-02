@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este é o conteúdo original do arquivo.
+=======
+Este é o conteúdo alterado no branch1.
+>>>>>>> feature-branch1
